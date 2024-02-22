@@ -1,0 +1,22 @@
+{
+    "StarFleet":{
+        "Keys":[
+            {
+                "ShipClass": {"S": "Luna"},
+                "Registry": {"S": "NCC-80102"} 
+            },
+            {
+                "ShipClass": {"S": "Constellation"},
+                "Registry": {"S": "NCC-1974"} 
+            },
+            {
+                "ShipClass": {"S": "Crossfield"},
+                "Registry": {"S": "NCC-1029"} 
+            },
+            {
+                "ShipClass": {"S": "Crossfield"},
+                "Registry": {"S": "NCC-1031"} 
+            }
+        ]
+    }
+}
